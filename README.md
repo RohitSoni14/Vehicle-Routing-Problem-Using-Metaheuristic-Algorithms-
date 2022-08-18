@@ -69,15 +69,7 @@ cost of the new sub-solution is lower than the current sub-solution cost. Repeat
 On using the data from the link in data collection section, the results for the GA algorithms 
 are as below:
 Method  
-Implementation of 
-code:
-https://drive.google.com/file/d/1nG
-nYhkonRwJ9Z7DpRtzRo3fjnzwA
-HGNM/view?usp=sharing
-https://drive.google.com/file/
-d/1XswghcljgGF5JCMlNWm
-8NdWO54a5icP/view?usp=
-sharing
+
 Optimal number of 
 vehicles: 3 for Genetic Algorithm and  5 Genetic K-means 
 Algorithm
