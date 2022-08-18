@@ -76,7 +76,7 @@ Algorithm
 
 Optimal distance 
 travelled:
-1702 units 956.27 unit
+1702 units for Genetic Algorithm and 956.27 unit Genetic K-means 
 process for all sub-solutions.
 
 
