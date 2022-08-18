@@ -1,7 +1,7 @@
 # Vehicle-Routing-Problem-Using-Metaheuristic-Algorithms-
 ## Breif Summary :
 
-
+• **Reduced more than 40%** of traveling cost with **Genetic k-means** algorithm as compared to **Genetic algorithm**
 ## INTRODUCTION:
 **Vehicle Routing Problem** is a generalization of the **Travelling Salesman problem**. There 
 are nodes which represent customers/delivery spots/end points and a depot. Each 
