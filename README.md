@@ -1,4 +1,6 @@
 # Vehicle-Routing-Problem-Using-Metaheuristic-Algorithms-
+## Breif Summary :
+
 
 ## INTRODUCTION:
 **Vehicle Routing Problem** is a generalization of the **Travelling Salesman problem**. There 
@@ -77,7 +79,7 @@ Algorithm
 Optimal distance 
 travelled:
 1702 units for Genetic Algorithm and 956.27 unit Genetic K-means 
-process for all sub-solutions**(40% improvement)**
+process for all sub-solutions **(40% improvement)**
 
 
 
