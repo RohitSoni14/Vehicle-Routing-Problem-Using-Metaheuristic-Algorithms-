@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1mWdgVMsE04vh0MJN9mZeVbQFqhLuYkdm/view?us=sharin
 
 ## APPROACHES/ METHODS USED
 
-1. GRAPH THEORY
+**1. GRAPH THEORY**
 Nodes are customer locations and numbers on arc represent 
 distance for a delivery person to travel from one node to another and can find shortest 
 path to every node. This can be solved using Dijkstra’s or A* algorithm.
@@ -38,7 +38,7 @@ Drawbacks: Due to the nature of the problem it is not possible to use exact meth
 large instances of the VRP as complexity of using graph theory is n! where n is number 
 of nodes.
 
-2. GENETIC ALGORITHMS -
+**2. GENETIC ALGORITHMS** -
 
 Genetic algorithms have been inspired by the natural 
 selection mechanism introduced by Darwin.
@@ -50,7 +50,7 @@ Fitness function
 Selection (Based on Fitness Function) 
 
 
-3. GENETIC K-MEANS ALGORITHM -
+**3. GENETIC K-MEANS ALGORITHM** -
 
 This approach tries to work out the initial 
 population generation shortcoming of the first genetic algorithm approach. The idea is to 
@@ -77,7 +77,7 @@ Algorithm
 Optimal distance 
 travelled:
 1702 units for Genetic Algorithm and 956.27 unit Genetic K-means 
-process for all sub-solutions.
+process for all sub-solutions**(40% improvement)**
 
 
 
@@ -91,7 +91,7 @@ dynamically update routes computational time matters. Meta heurists like GA and 
 scale efficiently. Search is needed almost everywhere at some stage. High exploration 
 rate doesn't necessarily generate the best solution.
 It was observed that GA when used with clustering give better optimal results. It was also 
-observed that PSO convergence rate is high than GA. GA and PSO are widely used in 
+observed that PSO convergence rate is high than GA. **GA** and **PSO** are widely used in 
 real life applications for routing problems. Eg.: Amazon delivery.
 Many domestic and foreign researchers have proposed some improvement methods. An 
 improved particle swarm optimization combined with a genetic algorithm (GA-PSO) is 
